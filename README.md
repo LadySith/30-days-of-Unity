@@ -25,4 +25,9 @@ Built Flippy Birb Version 1!
 - [ ] Add particle system for clouds
 - [ ] Add wing animations
 - [ ] Add extra screen for beginning of game
-- [ ] Version control
+- [x] Version control
+
+## Day 4
+### 19th January 2023
+
+Added [Flippy Birb](https://github.com/LadySith/Flippy-Birb) to Github for version control
