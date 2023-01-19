@@ -20,7 +20,7 @@ Completed [The Unity Tutorial For Complete Beginners](https://youtu.be/XtQMytORB
 Built Flippy Birb Version 1!
 
 **To do in future**
-- [ ] Make Game Over appear if bird is off screen
+- [x] Make Game Over appear if bird is off screen
 - [ ] Fix bug where score goes up after game over
 - [ ] Add particle system for clouds
 - [ ] Add wing animations
