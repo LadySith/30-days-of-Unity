@@ -19,6 +19,12 @@ Completed [The Unity Tutorial For Complete Beginners](https://youtu.be/XtQMytORB
 
 Built Flippy Birb Version 1!
 
+## Day 4
+### 19th January 2023
+
+- Added [Flippy Birb](https://github.com/LadySith/Flippy-Birb) to Github for version control
+- Made out of bounds game over work
+
 **To do in future**
 - [x] Make Game Over appear if bird is off screen
 - [ ] Fix bug where score goes up after game over
@@ -26,8 +32,3 @@ Built Flippy Birb Version 1!
 - [ ] Add wing animations
 - [ ] Add extra screen for beginning of game
 - [x] Version control
-
-## Day 4
-### 19th January 2023
-
-Added [Flippy Birb](https://github.com/LadySith/Flippy-Birb) to Github for version control
