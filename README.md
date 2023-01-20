@@ -25,9 +25,14 @@ Built Flippy Birb Version 1!
 - Added [Flippy Birb](https://github.com/LadySith/Flippy-Birb) to Github for version control
 - Made out of bounds game over work
 
+## Day 5
+### 20th January 2023
+
+- Fixed bug where score goes up after game is over and added out of bounds zone to game
+
 **To do in future**
 - [x] Make Game Over appear if bird is off screen
-- [ ] Fix bug where score goes up after game over
+- [x] Fix bug where score goes up after game over
 - [ ] Add particle system for clouds
 - [ ] Add wing animations
 - [ ] Add extra screen for beginning of game
