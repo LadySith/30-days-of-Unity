@@ -28,12 +28,18 @@ Built Flippy Birb Version 1!
 ## Day 5
 ### 20th January 2023
 
-- Fixed bug where score goes up after game is over and added out of bounds zone to game
+- Fixed bug where score goes up after game is over
+
+## Day 6
+### 21st January 2023
+
+- Added wing animations
+- Added particle system for clouds
 
 **To do in future**
 - [x] Make Game Over appear if bird is off screen
 - [x] Fix bug where score goes up after game over
-- [ ] Add particle system for clouds
-- [ ] Add wing animations
+- [x] Add particle system for clouds
+- [x] Add wing animations
 - [ ] Add extra screen for beginning of game
 - [x] Version control
