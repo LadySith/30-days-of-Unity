@@ -36,10 +36,17 @@ Built Flippy Birb Version 1!
 - Added wing animations
 - Added particle system for clouds
 
-**To do in future**
+## Day 7
+### 22nd January 2023
+
+- Added start screen
+- Changed the name of the game to Flappu
+- Started Bang Roller
+
+**To do**
 - [x] Make Game Over appear if bird is off screen
 - [x] Fix bug where score goes up after game over
 - [x] Add particle system for clouds
 - [x] Add wing animations
-- [ ] Add extra screen for beginning of game
+- [x] Add extra screen for beginning of game
 - [x] Version control
