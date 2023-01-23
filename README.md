@@ -50,3 +50,8 @@ Built Flippy Birb Version 1!
 - [x] Add wing animations
 - [x] Add extra screen for beginning of game
 - [x] Version control
+
+## Day 8
+### 23rd January 2023
+
+- Followed most of Brackey's tutorial on [Getting started with 2D Shader Graph in Unity](https://youtu.be/5dzGj9k8Qy8)
