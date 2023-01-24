@@ -41,7 +41,7 @@ Built Flippy Birb Version 1!
 
 - Added start screen
 - Changed the name of the game to Flappu
-- Started Bang Roller
+- Started [Bang Roller](https://github.com/LadySith/Bang-Roller)
 
 **To do**
 - [x] Make Game Over appear if bird is off screen
@@ -55,3 +55,11 @@ Built Flippy Birb Version 1!
 ### 23rd January 2023
 
 - Followed most of Brackey's tutorial on [Getting started with 2D Shader Graph in Unity](https://youtu.be/5dzGj9k8Qy8)
+
+## Day 9
+### 24th January 2023
+
+Added the following to [Bang Roller](https://github.com/LadySith/Bang-Roller)
+- Changed dice images
+- You can selec dice now, selected dice will be highlighted
+- You cannot reroll selected dice and dynamite
