@@ -61,5 +61,5 @@ Built Flippy Birb Version 1!
 
 Added the following to [Bang Roller](https://github.com/LadySith/Bang-Roller)
 - Changed dice images
-- You can selec dice now, selected dice will be highlighted
+- You can select dice now, selected dice will be highlighted
 - You cannot reroll selected dice and dynamite
