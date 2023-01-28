@@ -63,3 +63,30 @@ Added the following to [Bang Roller](https://github.com/LadySith/Bang-Roller)
 - Changed dice images
 - You can select dice now, selected dice will be highlighted
 - You cannot reroll selected dice and dynamite
+
+## Day 10
+### 25th January 2023
+
+Added the following to [Bang Roller](https://github.com/LadySith/Bang-Roller)
+- Created prefabs
+- Added dice manager script
+
+## Day 11
+### 26th January 2023
+
+Added the following to [Bang Roller](https://github.com/LadySith/Bang-Roller)
+- Changed dice manager script to game manager script
+- Added reset button
+- Added bang checker
+
+## Day 12
+### 27th January 2023
+
+Added the following to [Bang Roller](https://github.com/LadySith/Bang-Roller)
+- Added End Turn button and code to resolve dice rolls. Doesn't work correctly.
+
+## Day 13
+### 28th January 2023
+
+Added the following to [Bang Roller](https://github.com/LadySith/Bang-Roller)
+- Changed dice images
